@@ -13,7 +13,7 @@
 + 🍊 [2020.08-2021.02] 구디아카데미 29기 (금융 오픈플랫폼(자바)기반 핀테크 개발자 양성과정)
   + Java, Spring Boot, MySQL, MyBatis, Node.js, Python
   + Project: LMS, 학습관리시스템
-    + [Github | LMS-X](https://github.com/rigizer/LMS-X)
+    + [Source Code | Github](https://github.com/rigizer/LMS-X)
     + [Service](http://rigizer.iptime.org/lms)
   + [수료 인터뷰](https://www.gdu.co.kr/community/community_030100.html?bmain=view&uid=105)
 + 🍋 [2021.02-2022.05] 이팝콘 데이터수집팀
