@@ -1,5 +1,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frigizer&count_bg=%2379C83D&title_bg=%23555555&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Notion-EEEEEE?style=flat-square&logo=Notion&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Source%20Tree-005DF4?style=flat-square&logo=sourcetree&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</p>
+  
+---
+
 ### ✅ 한재용 (Jaeyong Han, 韓在鎔) ✅
 
 + 🎂 [1996.06.05] Seoul, Republic of Korea.
@@ -32,8 +44,9 @@
   + [[팀: 내일부터 하자] 매쓰원정대](https://github.com/CompetitionGame)
   + 서버, 데이터베이스 관련 Back-end 담당 (C#, Java, SQL, AWS)
   + [2022.08.05] 예선통과, 본선진출
+
 ---
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=appleboy)
 
-![rigizer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigizer&layout=compact&theme=tokyonight&show_icons=true)
+![rigizer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigizer&layout=compact&show_icons=true)
