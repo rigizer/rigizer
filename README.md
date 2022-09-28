@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frigizer&count_bg=%2379C83D&title_bg=%23555555&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=ffffff"/>
@@ -15,6 +15,12 @@
 ### ✅ 한재용 (Jaeyong Han, 韓在鎔) ✅
 
 + 🎂 [1996.06.05] Seoul, Republic of Korea.
+  + <p>
+      <a href="https://www.youtube.com/channel/UC7K8QkA2Y1IBEJGHm-3fNXw/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+      <a href="https://www.instagram.com/jy_han65" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+      <a href="https://www.facebook.com/profile.php?id=100008733510957" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/kakaotalk-FFBE00?style=flat-square&logo=kakao&logoColor=black"/></a>
+    </p>
 + 🍉 [2015.03-2021.02] 세명대학교 컴퓨터학부 (충청북도, 제천)
   + 소프트웨어학과
   + 컴퓨터시스템학과
@@ -50,6 +56,6 @@
 
 ---
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=appleboy)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=appleboy)](https://solved.ac/appleboy/)
 
 ![rigizer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigizer&layout=compact&show_icons=true)
