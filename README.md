@@ -28,7 +28,10 @@
   + 스터디
     + [Algorithm (Python)](https://github.com/AlgorithmSf/AlgorithmStudy)
     + [Programming Language (Kotlin)](https://github.com/Kkoziri/Kotlin_Study)
-
++ 🧊 [2022.06-2022.12] 제2회 웅진씽크빅 게임 개발 챌린지
+  + [[팀: 내일부터 하자] 매쓰원정대](https://github.com/CompetitionGame)
+  + 서버, 데이터베이스 관련 Back-end 담당 (C#, Java, SQL, AWS)
+  + [2022.08.05] 예선통과, 본선진출
 ---
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=appleboy)
