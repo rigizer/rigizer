@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Notion-EEEEEE?style=flat-square&logo=Notion&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Source%20Tree-005DF4?style=flat-square&logo=sourcetree&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sourcetree-005DF4?style=flat-square&logo=sourcetree&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
   
@@ -19,7 +19,7 @@
       <a href="https://www.youtube.com/channel/UC7K8QkA2Y1IBEJGHm-3fNXw/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
       <a href="https://www.instagram.com/jy_han65" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
       <a href="https://www.facebook.com/profile.php?id=100008733510957" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/kakaotalk-FFBE00?style=flat-square&logo=kakao&logoColor=black"/></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Kakaotalk-FFBE00?style=flat-square&logo=kakao&logoColor=black"/></a>
     </p>
 + 🍉 [2015.03-2021.02] 세명대학교 컴퓨터학부 (충청북도, 제천)
   + 소프트웨어학과
