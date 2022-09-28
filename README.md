@@ -25,8 +25,9 @@
   + 소프트웨어학과
   + 컴퓨터시스템학과
   + 세명대학식 서비스 개발
-    + [Google Play](https://play.google.com/store/apps/details?id=kr.pe.smu.newsmuhaksik), 100+ Hit!
-    + [Google Play (구버전)](https://play.google.com/store/apps/details?id=kr.ac.semyung.smu), 1000+ Hit!
+  
+    + <a href="https://play.google.com/store/apps/details?id=kr.pe.smu.newsmuhaksik" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"/></a>, 100+ Hit!
+    + <a href="https://play.google.com/store/apps/details?id=kr.ac.semyung.smu" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"/></a>(구버전), 1000+ Hit!
   
 + 🍊 [2020.08-2021.02] 구디아카데미 29기 (금융 오픈플랫폼(자바)기반 핀테크 개발자 양성과정)
   + Java, Spring Boot, MySQL, MyBatis, Node.js, Python
