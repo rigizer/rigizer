@@ -19,7 +19,7 @@
       <a href="https://www.youtube.com/channel/UC7K8QkA2Y1IBEJGHm-3fNXw/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
       <a href="https://www.instagram.com/jy_han65" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
       <a href="https://www.facebook.com/profile.php?id=100008733510957" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Kakaotalk-FFBE00?style=flat-square&logo=kakao&logoColor=black"/></a>
+      <a href="https://open.kakao.com/me/codespeed" target="_blank"><img src="https://img.shields.io/badge/Kakaotalk-FFBE00?style=flat-square&logo=kakao&logoColor=black"/></a>
     </p>
 + 🍉 [2015.03-2021.02] 세명대학교 컴퓨터학부 (충청북도, 제천)
   + 소프트웨어학과
