@@ -21,7 +21,7 @@
   + 데이터 크롤링엔진 신규개발 (Python, Node.js, PM2)
   + 클라우드 서버 관리 (AWS, NHN TOSAT), 데이터베이스 관리 (MySQL, MariaDB)
 + 🥝 [2022.07-2023.06] 삼성 청년 소프트웨어 아카데미 (SSAFY) 8기
-  + 구미캠퍼스 모바일트랙
+  + 구미캠퍼스 모바일트랙 (구미 6반 반장, 구미캠퍼스 대표교육생)
   + Java, Spring, Spring Boot, MyBatis, Kotlin, Android
   + [합격 인터뷰](https://www.instagram.com/p/Chl5Lxhv_oC)
   + 서울, 구미, 광주, 부울경캠퍼스 오늘의점심 서비스 개발
