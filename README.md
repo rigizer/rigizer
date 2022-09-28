@@ -57,6 +57,9 @@
 
 ---
 
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=appleboy)](https://solved.ac/appleboy/)
+-->
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=appleboy)
 
 ![rigizer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigizer&layout=compact&show_icons=true)
