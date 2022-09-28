@@ -27,6 +27,11 @@
   + Project: LMS, 학습관리시스템
     + [Source Code | Github](https://github.com/rigizer/LMS-X)
     + [Service](http://rigizer.iptime.org/lms)
+      + <img src="https://github.com/rigizer/rigizer.github.io/blob/master/assets/images/portfolio/lmsproj.png" width="300px"/>
+  + Project: 가계부
+    + [Source Code | Github](https://github.com/rigizer/cash)
+    + [Service](http://rigizer.iptime.org/cash)
+      + <img src="https://github.com/rigizer/rigizer.github.io/blob/master/assets/images/portfolio/cashbook.gif" width="300px"/>
   + [수료 인터뷰](https://www.gdu.co.kr/community/community_030100.html?bmain=view&uid=105)
 + 🍋 [2021.02-2022.05] 이팝콘 데이터수집팀
   + 데이터 크롤링엔진 신규개발, 유지/보수 (Java, Spring Boot, MySQL, MyBatis)
@@ -37,6 +42,7 @@
   + Java, Spring, Spring Boot, MyBatis, Kotlin, Android
   + [합격 인터뷰](https://www.instagram.com/p/Chl5Lxhv_oC)
   + 서울, 구미, 광주, 부울경캠퍼스 오늘의점심 서비스 개발
+    + <img src="./image/todays_lunch.png" width="300px"/>
   + 스터디
     + [Algorithm (Python)](https://github.com/AlgorithmSf/AlgorithmStudy)
     + [Programming Language (Kotlin)](https://github.com/Kkoziri/Kotlin_Study)
@@ -44,6 +50,7 @@
   + [[팀: 내일부터 하자] 매쓰원정대](https://github.com/CompetitionGame)
   + 서버, 데이터베이스 관련 Back-end 담당 (C#, Java, SQL, AWS)
   + [2022.08.05] 예선통과, 본선진출
+    + <img src="./image/wjtbgame.png" width="300px"/>
 
 ---
 
