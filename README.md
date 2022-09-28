@@ -21,7 +21,7 @@
   + 구미캠퍼스 모바일트랙
   + Java, Spring, Spring Boot, MyBatis, Kotlin, Android
   + [합격 인터뷰](https://www.instagram.com/p/Chl5Lxhv_oC)
-  + 서울, 대전, 구미, 부울경캠퍼스 오늘의점심 서비스 개발
+  + 서울, 구미, 광주, 부울경캠퍼스 오늘의점심 서비스 개발
 
 ---
 
