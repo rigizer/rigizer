@@ -25,7 +25,6 @@
 
 ---
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=appleboy)](https://solved.ac/appleboy)
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=appleboy)
 
 ![rigizer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigizer&layout=compact&theme=tokyonight&show_icons=true)
