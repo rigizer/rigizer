@@ -42,14 +42,14 @@
   + 데이터 크롤링엔진 신규개발, 유지/보수 (Java, Spring Boot, MySQL, MyBatis)
   + 데이터 크롤링엔진 신규개발 (Python, Node.js, PM2)
   + 클라우드 서버 관리 (AWS, NHN TOSAT), 데이터베이스 관리 (MySQL, MariaDB)
-+ 🥝 [2022.07-2023.06] 삼성 청년 소프트웨어 아카데미 (SSAFY) 8기
-  + 구미캠퍼스 모바일트랙 (구미 6반 반장, 구미캠퍼스 대표교육생)
++ 🥝 [2022.07-2023.06] 삼성 청년 소프트웨어 아카데미 (SSAFY) ![samsung](https://img.shields.io/badge/Samsung-SSAFY-1D49C0?style=flat-square&logo=samsung&logoColor=white)
+  + 8기 구미캠퍼스 모바일트랙 (구미 6반 반장, 구미캠퍼스 대표교육생)
   + Java, Spring, Spring Boot, MyBatis, Kotlin, Android
   + [합격 인터뷰](https://www.instagram.com/p/Chl5Lxhv_oC)
   + 서울, 구미, 광주, 부울경캠퍼스 오늘의점심 서비스 개발
   + 스터디
-    + [Algorithm (Python)](https://github.com/AlgorithmSf/AlgorithmStudy)
-    + [Programming Language (Kotlin)](https://github.com/Kkoziri/Kotlin_Study)
+    + ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) [알고리즘 스터디](https://github.com/AlgorithmSf/AlgorithmStudy)
+    + ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white) [코틀린 스터디](https://github.com/Kkoziri/Kotlin_Study)
 + 🧊 [2022.06-2022.12] 제2회 웅진씽크빅 게임 개발 챌린지
   + [[팀: 내일부터 하자] 매쓰원정대](https://github.com/CompetitionGame)
   + 서버, 데이터베이스 관련 Back-end 담당 (C#, Java, SQL, AWS)
