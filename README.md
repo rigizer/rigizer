@@ -34,7 +34,8 @@
   + Project: LMS, 학습관리시스템
     + [Source Code | Github](https://github.com/rigizer/LMS-X)
     + [Service](http://rigizer.iptime.org/lms)
-      + MySQL Trigger, JavaMail, [reCAPTCHA](https://developers.google.com/recaptcha), jQuery, [Chart.js](https://www.chartjs.org), WebSocket, [스마트에디터2](https://naver.github.io/smarteditor2), [우체국 주소DB](https://www.epost.go.kr/search/zipcode/cmzcd002k01.jsp) 등 활용
+    + Spring Boot, MariaDB, AWS Lightsail, Java 8, MyBatis, Tomcat 9 사용
+    + MySQL Trigger, JavaMail, [reCAPTCHA](https://developers.google.com/recaptcha), jQuery, [Chart.js](https://www.chartjs.org), WebSocket, [스마트에디터2](https://naver.github.io/smarteditor2), [우체국 주소DB](https://www.epost.go.kr/search/zipcode/cmzcd002k01.jsp) 등 활용
   + Project: 가계부
     + [Source Code | Github](https://github.com/rigizer/cash)
     + [Service](http://rigizer.iptime.org/cash)
