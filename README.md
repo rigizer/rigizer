@@ -30,7 +30,9 @@
     + <a href="https://play.google.com/store/apps/details?id=kr.ac.semyung.smu" target="_blank"><img src="https://img.shields.io/badge/Google_Play-LEGACY-414141?style=flat-square&logo=google-play&logoColor=white"/></a>, 1000+ Hit!
   
 + 🍊 [2020.08-2021.02] 구디아카데미 29기 (금융 오픈플랫폼(자바)기반 핀테크 개발자 양성과정)
-  + Java, Spring Boot, MySQL, MyBatis, Node.js, Python
+  + Java, Spring Boot, MySQL, MyBatis, Node.js, Python 학습
+    + JSP, Model 1, Model 2, MVC Pattern, Spring Boot 학습
+    + Node.js, Python3 (Flask) 학습
   + Project: LMS, 학습관리시스템
     + [Source Code | Github](https://github.com/rigizer/LMS-X)
     + [Service](http://rigizer.iptime.org/lms)
@@ -46,7 +48,10 @@
   + 클라우드 서버 관리 (AWS, NHN TOSAT), 데이터베이스 관리 (MySQL, MariaDB)
 + 🥝 [2022.07-2023.06] 삼성 청년 소프트웨어 아카데미 (SSAFY) ![samsung](https://img.shields.io/badge/Samsung-SSAFY-1D49C0?style=flat-square&logo=samsung&logoColor=white)
   + 8기 구미캠퍼스 모바일트랙 (구미 6반 반장, 구미캠퍼스 대표교육생)
-  + Java, Spring, Spring Boot, MyBatis, Kotlin, Android
+  + Java, Spring, Spring Boot, MyBatis, Kotlin, Android 학습
+    + RESTful한 Back-end API 구축 (GET, POST, PUT, DELETE)
+    + Retrofit 이용하여 데이터 통신
+    + SQLite, Firebase 이용한 데이터베이스 활용 등
   + [합격 인터뷰](https://www.instagram.com/p/Chl5Lxhv_oC)
   + 서울, 구미, 광주, 부울경캠퍼스 오늘의점심 서비스 개발
   + 스터디
