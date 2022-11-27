@@ -54,7 +54,6 @@
     + Retrofit 이용하여 데이터 통신
     + SQLite, Firebase 이용한 데이터베이스 활용 등
   + [합격 인터뷰](https://www.instagram.com/p/Chl5Lxhv_oC)
-  + 서울, 구미, 광주, 부울경캠퍼스 오늘의점심 서비스 개발
   + 스터디
     + ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) [알고리즘 스터디](https://github.com/AlgorithmSf/AlgorithmStudy)
     + ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white) [코틀린 스터디](https://github.com/Kkoziri/Kotlin_Study)
@@ -66,6 +65,7 @@
     + 싸브리타임: [에브리타임](https://everytime.kr) 클론코딩
       + [Service](http://ssaverytime.kr)
       + [Source Code | Github](https://github.com/rigizer/ssaverytime-android)
+    + SSAFY 8기 서울, 구미, 광주, 부울경캠퍼스 오늘의점심 서비스 개발
 + 🧊 [2022.06-2022.12] 제2회 웅진씽크빅 게임 개발 챌린지
   + [[팀: 내일부터 하자] 매쓰원정대](https://github.com/CompetitionGame)
   + 서버, 데이터베이스 관련 Back-end 담당 (C#, Java, SQL, AWS)
