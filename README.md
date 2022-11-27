@@ -34,13 +34,13 @@
     + JSP, Model 1, Model 2, MVC Pattern, Spring Boot 학습
     + Node.js, Python3 (Flask) 학습
   + Project: LMS, 학습관리시스템
-    + [Source Code | Github](https://github.com/rigizer/LMS-X)
     + [Service](http://rigizer.iptime.org/lms)
+    + [Source Code | Github](https://github.com/rigizer/LMS-X)
     + Spring Boot, MariaDB, AWS Lightsail, Java 8, MyBatis, Tomcat 9 사용
     + MySQL Trigger, JavaMail, [reCAPTCHA](https://developers.google.com/recaptcha), jQuery, [Chart.js](https://www.chartjs.org), WebSocket, [스마트에디터2](https://naver.github.io/smarteditor2), [우체국 주소DB](https://www.epost.go.kr/search/zipcode/cmzcd002k01.jsp) 등 활용
   + Project: 가계부
-    + [Source Code | Github](https://github.com/rigizer/cash)
     + [Service](http://rigizer.iptime.org/cash)
+    + [Source Code | Github](https://github.com/rigizer/cash)
   + [수료 인터뷰](https://www.gdu.co.kr/community/community_030100.html?bmain=view&uid=105)
 + 🍋 [2021.02-2022.05] 이팝콘 데이터수집팀
   + 데이터 크롤링엔진 신규개발, 유지/보수 (Java, Spring Boot, MySQL, MyBatis)
@@ -58,10 +58,13 @@
   + 스터디
     + ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) [알고리즘 스터디](https://github.com/AlgorithmSf/AlgorithmStudy)
     + ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white) [코틀린 스터디](https://github.com/Kkoziri/Kotlin_Study)
-  + 프로젝트
-    + [코발트 카페](https://github.com/su6378/cobalt_coffee): (스타벅스, 이디야 앱 클론코딩, SSAFY 8기 모바일트랙 최우수)
+  + Project
+    + 코발트 카페, 스타벅스/이디야 앱 클론코딩 [SSAFY 8기 모바일트랙 최우수]
+      + [Source Code | Github](https://github.com/su6378/cobalt_coffee)
       + [FitButton](https://github.com/nikartm/FitButton), [lottie-android](https://github.com/airbnb/lottie-android), [Retrofit](https://github.com/square/retrofit), [부트페이](https://docs.bootpay.co.kr/?front=android-java&backend=java#introduce), [AWS Lightsail](https://lightsail.aws.amazon.com/), [MariaDB](https://mariadb.org/) 등 활용
-    + [싸브리타임](http://ssaverytime.kr): [에브리타임](https://everytime.kr) 클론코딩
+    + 싸브리타임, [에브리타임](https://everytime.kr) 클론코딩
+      + [Service](http://ssaverytime.kr)
+      + [Source Code | Github](https://github.com/rigizer/ssaverytime-android)
 + 🧊 [2022.06-2022.12] 제2회 웅진씽크빅 게임 개발 챌린지
   + [[팀: 내일부터 하자] 매쓰원정대](https://github.com/CompetitionGame)
   + 서버, 데이터베이스 관련 Back-end 담당 (C#, Java, SQL, AWS)
