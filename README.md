@@ -60,6 +60,7 @@
     + ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white) [코틀린 스터디](https://github.com/Kkoziri/Kotlin_Study)
   + 프로젝트
     + [코발트 카페](https://github.com/su6378/cobalt_coffee): (스타벅스, 이디야 앱 클론코딩, SSAFY 8기 모바일트랙 최우수)
+      + [FitButton](https://github.com/nikartm/FitButton), [lottie-android](https://github.com/airbnb/lottie-android), [Retrofit](https://github.com/square/retrofit), [부트페이](https://docs.bootpay.co.kr/?front=android-java&backend=java#introduce), [AWS Lightsail](https://lightsail.aws.amazon.com/), [MariaDB](https://mariadb.org/) 등 활용
     + [싸브리타임](http://ssaverytime.kr): [에브리타임](https://everytime.kr) 클론코딩
 + 🧊 [2022.06-2022.12] 제2회 웅진씽크빅 게임 개발 챌린지
   + [[팀: 내일부터 하자] 매쓰원정대](https://github.com/CompetitionGame)
