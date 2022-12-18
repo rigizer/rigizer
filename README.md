@@ -59,12 +59,9 @@
     + ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white) [코틀린 스터디](https://github.com/Kkoziri/Kotlin_Study)
   + Project
     + 코발트 카페: 스타벅스/이디야 앱 클론코딩 [SSAFY 8기 모바일트랙 최우수]
-      + [Source Code | Github](https://github.com/su6378/cobalt_coffee)
+      + [Source Code | Github](https://github.com/rigizer/cobalt_coffee)
       + Front-end(Android): Kotlin, [FitButton](https://github.com/nikartm/FitButton), [lottie-android](https://github.com/airbnb/lottie-android), [Retrofit](https://github.com/square/retrofit), [부트페이](https://docs.bootpay.co.kr/?front=android-java&backend=java#introduce) 등 활용
       + Back-end(Server): Java, Spring Boot, [AWS Lightsail](https://lightsail.aws.amazon.com/), [MariaDB](https://mariadb.org/), [Lombok](https://projectlombok.org/) 등 활용
-    + 싸브리타임: [에브리타임](https://everytime.kr) 클론코딩
-      + [Service](http://ssaverytime.kr)
-      + [Source Code | Github](https://github.com/rigizer/ssaverytime-android)
     + SSAFY 8기 서울, 구미, 광주, 부울경캠퍼스 오늘의점심 서비스 개발
 + 🧊 [2022.06-2022.12] 제2회 웅진씽크빅 게임 개발 챌린지
   + [[팀: 내일부터 하자] 매쓰원정대](https://github.com/CompetitionGame)
