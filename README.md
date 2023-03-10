@@ -62,7 +62,7 @@
       + [Source Code | Github](https://github.com/rigizer/cobalt_coffee)
       + Front-end(Android): Kotlin, [FitButton](https://github.com/nikartm/FitButton), [lottie-android](https://github.com/airbnb/lottie-android), [Retrofit](https://github.com/square/retrofit), [부트페이](https://docs.bootpay.co.kr/?front=android-java&backend=java#introduce) 등 활용
       + Back-end(Server): Java, Spring Boot, [AWS Lightsail](https://lightsail.aws.amazon.com/), [MariaDB](https://mariadb.org/), [Lombok](https://projectlombok.org/) 등 활용
-    + [2023.01.09-2023.02.17] **```비피```**: 우산대여서비스 [SSAFY 8기 2학기 공통프로젝트 (IoT 부문)]
+    + [2023.01.09-2023.02.17] **```비피```**: 우산대여서비스 [SSAFY 8기 2학기 공통프로젝트 (IoT 부문), 구미캠퍼스 1반 1등]
       + Spring Boot 3.0.2, Java 17, Spring Security, JWT, JPA, AWS EC2, Docker, Jenkins, JIRA, MariaDB 등 활용
       + React.js, Node.js, react-qr-code 등 활용
       + RaspberryPi, RaspberryPi OS(Debian), 서보모터, FastAPI, Python 3 등 활용
