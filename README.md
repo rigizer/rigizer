@@ -48,12 +48,15 @@
   + 클라우드 서버 관리 (AWS, NHN TOSAT), 데이터베이스 관리 (MySQL, MariaDB)
 + 🥝 [2022.07-2023.06] 삼성 청년 소프트웨어 아카데미 (SSAFY) ![samsung](https://img.shields.io/badge/Samsung-SSAFY-1D49C0?style=flat-square&logo=samsung&logoColor=white)
   + 8기 구미캠퍼스 모바일트랙 (구미 6반 반장, 구미캠퍼스 1학기 대표교육생)
+  + 8기 구미캠퍼스 특화PJT (구미 2반 반장, 구미캠퍼스 2학기 특화PJT 대표교육생)
   + Java, Spring, Spring Boot, MyBatis, Kotlin, Android 학습
     + Vue.js를 활용하여 Front-end 화면 구축
     + RESTful한 Back-end API 구축 (GET, POST, PUT, DELETE)
     + Retrofit 이용하여 데이터 통신
     + SQLite, Firebase 이용한 데이터베이스 활용 등
   + [합격 인터뷰](https://www.instagram.com/p/Chl5Lxhv_oC)
+  + [공통PJT 인터뷰(구미)](https://odeyou.tistory.com/247)
+  + [공통PJT 인터뷰(서울)](https://blog.naver.com/roa_0318/223036850357)
   + 스터디
     + ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) [알고리즘 스터디](https://github.com/AlgorithmSf/AlgorithmStudy)
     + ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white) [코틀린 스터디](https://github.com/Kkoziri/Kotlin_Study)
