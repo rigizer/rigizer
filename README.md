@@ -65,10 +65,14 @@
       + [Source Code | Github](https://github.com/rigizer/cobalt_coffee)
       + Front-end(Android): Kotlin, [FitButton](https://github.com/nikartm/FitButton), [lottie-android](https://github.com/airbnb/lottie-android), [Retrofit](https://github.com/square/retrofit), [부트페이](https://docs.bootpay.co.kr/?front=android-java&backend=java#introduce) 등 활용
       + Back-end(Server): Java, Spring Boot, [AWS Lightsail](https://lightsail.aws.amazon.com/), [MariaDB](https://mariadb.org/), [Lombok](https://projectlombok.org/) 등 활용
-    + [2023.01.09-2023.02.17] **```비피```**: 우산대여서비스 [SSAFY 8기 2학기 공통프로젝트 (IoT 부문), 구미캠퍼스 1반 1등]
+    + [2023.01.09-2023.02.17] **```비피```**: 우산대여서비스 [SSAFY 8기 2학기 공통PJT (IoT 부문), 구미캠퍼스 1반 1등]
       + Spring Boot 3.0.2, Java 17, Spring Security, JWT, JPA, AWS EC2, Docker, Jenkins, JIRA, MariaDB 등 활용
       + React.js, Node.js, react-qr-code 등 활용
       + RaspberryPi, RaspberryPi OS(Debian), 서보모터, FastAPI, Python 3 등 활용
+    + [2023.02.20-2023.04.07] **```CAR-BORN```**: 중고차 거래 플랫폼 [SSAFY 8기 2학기 특화PJT (블록체인, P2P)]
+      + Spring Boot 3.0.2, Java 17, Spring Security, JWT, JPA, AWS EC2, Docker, Jenkins, JIRA, MariaDB 등 활용
+      + React,js, Node.js, Three.js 등 활용
+      + GlobalExceptionHandler 적용하여 오류 대응, Jenkins와 Docker를 활용한 CI/CD 강화
     + SSAFY 8기 서울, 구미, 광주, 부울경캠퍼스 오늘의점심 서비스 개발
 + 🧊 [2022.06-2022.12] 제2회 웅진씽크빅 게임 개발 챌린지
   + [[팀: 내일부터 하자] 매쓰원정대](https://github.com/CompetitionGame)
