@@ -49,6 +49,7 @@
 + 🥝 [2022.07-2023.06] 삼성 청년 소프트웨어 아카데미 (SSAFY) ![samsung](https://img.shields.io/badge/Samsung-SSAFY-1D49C0?style=flat-square&logo=samsung&logoColor=white)
   + 8기 구미캠퍼스 모바일트랙 (구미 6반 반장, 구미캠퍼스 1학기 대표교육생)
   + 8기 구미캠퍼스 특화PJT (구미 2반 반장, 구미캠퍼스 2학기 특화PJT 대표교육생)
+  + 8기 구미캠퍼스 자율PJT (구미 2반 반장, 구미캠퍼스 2학기 자율PJT 대표교육생)
   + Java, Spring, Spring Boot, MyBatis, Kotlin, Android 학습
     + Vue.js를 활용하여 Front-end 화면 구축
     + RESTful한 Back-end API 구축 (GET, POST, PUT, DELETE)
@@ -73,6 +74,10 @@
       + Spring Boot 3.0.2, Java 17, Spring Security, JWT, JPA, AWS EC2, Docker, Jenkins, JIRA, MariaDB 등 활용
       + React,js, Node.js, Three.js 등 활용
       + GlobalExceptionHandler 적용하여 오류 대응, Jenkins와 Docker를 활용한 CI/CD 강화
+    + [2023.04.10-2023.05.26] **```코드스피드```**: IT 취업준비 종합 플랫폼 애플리케이션 [SSAFY 8기 2학기 자율PJT (Android)]
+      + Spring Boot 3.0.5, Java 17, Spring Security, JWT, JPA, AWS EC2, Docker, Jenkins, JIRA, MairaDB 등 활용
+      + Android, Kotlin, OAuth, Google/Kakao 소셜로그인
+      + 멀티모듈 및 MVVM 클린 아키텍처 적용, ELK 스택 적용
     + SSAFY 8기 서울, 구미, 광주, 부울경캠퍼스 오늘의점심 서비스 개발
 + 🧊 [2022.06-2022.12] 제2회 웅진씽크빅 게임 개발 챌린지
   + [[팀: 내일부터 하자] 매쓰원정대](https://github.com/CompetitionGame)
