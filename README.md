@@ -70,7 +70,7 @@
       + Spring Boot 3.0.2, Java 17, Spring Security, JWT, JPA, AWS EC2, Docker, Jenkins, JIRA, MariaDB 등 활용
       + React.js, Node.js, react-qr-code 등 활용
       + RaspberryPi, RaspberryPi OS(Debian), 서보모터, FastAPI, Python 3 등 활용
-    + [2023.02.20-2023.04.07] **```CAR-BORN```**: 중고차 거래 플랫폼 [SSAFY 8기 2학기 특화PJT (블록체인, P2P)]
+    + [2023.02.20-2023.04.07] **```CAR-BORN```**: 중고차 거래 플랫폼 [SSAFY 8기 2학기 특화PJT (블록체인-P2P 부문), 구미캠퍼스 2반 3등]
       + Spring Boot 3.0.2, Java 17, Spring Security, JWT, JPA, AWS EC2, Docker, Jenkins, JIRA, MariaDB 등 활용
       + React,js, Node.js, Three.js 등 활용
       + GlobalExceptionHandler 적용하여 오류 대응, Jenkins와 Docker를 활용한 CI/CD 강화
