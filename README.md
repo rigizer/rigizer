@@ -52,9 +52,13 @@
   + 8기 구미캠퍼스 자율PJT (구미 2반 반장, 구미캠퍼스 2학기 자율PJT 대표교육생)
   + Java, Spring, Spring Boot, MyBatis, Kotlin, Android 학습
     + Vue.js를 활용하여 Front-end 화면 구축
-    + RESTful한 Back-end API 구축 (GET, POST, PUT, DELETE)
+    + Java/Kotlin 이용한 모바일 화면 구성
+    + RESTful Back-end API 구축 (GET, POST, PUT, PATCH, DELETE)
     + Retrofit 이용하여 데이터 통신
-    + SQLite, Firebase 이용한 데이터베이스 활용 등
+    + SQLite, Firebase, MariaDB 이용한 데이터베이스 활용
+    + AWS S3, 네이버 클로바 보이스, ChatGPT API 활용
+    + Amazon Lightsail, Lambda, EC2 활용
+    + Jenkins, docker, dockerhub 활용 및 NginX 리버스 프록시 및 무중단 서버 구성
   + [합격 인터뷰](https://www.instagram.com/p/Chl5Lxhv_oC)
   + [공통PJT 인터뷰(구미)](https://odeyou.tistory.com/247)
   + [공통PJT 인터뷰(서울)](https://blog.naver.com/roa_0318/223036850357)
