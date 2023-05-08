@@ -66,19 +66,19 @@
     + ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) [알고리즘 스터디](https://github.com/AlgorithmSf/AlgorithmStudy)
     + ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white) [코틀린 스터디](https://github.com/Kkoziri/Kotlin_Study)
   + Project
-    + [2022.11.17-2022.11.25] **```코발트 카페```**: 스타벅스/이디야 앱 클론코딩 [SSAFY 8기 모바일트랙 최우수]
+    + [2022.11.17-2022.11.25] **```코발트 카페```**: 스타벅스/이디야 앱 클론코딩 `[SSAFY 8기 모바일트랙 최우수]`
       + [Source Code | Github](https://github.com/rigizer/cobalt_coffee)
       + Front-end(Android): Kotlin, [FitButton](https://github.com/nikartm/FitButton), [lottie-android](https://github.com/airbnb/lottie-android), [Retrofit](https://github.com/square/retrofit), [부트페이](https://docs.bootpay.co.kr/?front=android-java&backend=java#introduce) 등 활용
       + Back-end(Server): Java, Spring Boot, [AWS Lightsail](https://lightsail.aws.amazon.com/), [MariaDB](https://mariadb.org/), [Lombok](https://projectlombok.org/) 등 활용
-    + [2023.01.09-2023.02.17] **```비피```**: 우산대여서비스 [SSAFY 8기 2학기 공통PJT (IoT 부문), 구미캠퍼스 1반 1등]
+    + [2023.01.09-2023.02.17] **```비피```**: 우산대여서비스 `[SSAFY 8기 2학기 공통PJT (IoT 부문), 구미캠퍼스 1반 1등]`
       + Spring Boot 3.0.2, Java 17, Spring Security, JWT, JPA, AWS EC2, Docker, Jenkins, JIRA, MariaDB 등 활용
       + React.js, Node.js, react-qr-code 등 활용
       + RaspberryPi, RaspberryPi OS(Debian), 서보모터, FastAPI, Python 3 등 활용
-    + [2023.02.20-2023.04.07] **```CAR-BORN```**: 중고차 거래 플랫폼 [SSAFY 8기 2학기 특화PJT (블록체인-P2P 부문), 구미캠퍼스 2반 3등]
+    + [2023.02.20-2023.04.07] **```CAR-BORN```**: 중고차 거래 플랫폼 `[SSAFY 8기 2학기 특화PJT (블록체인-P2P 부문), 구미캠퍼스 2반 3등]`
       + Spring Boot 3.0.2, Java 17, Spring Security, JWT, JPA, AWS EC2, Docker, Jenkins, JIRA, MariaDB 등 활용
       + React,js, Node.js, Three.js 등 활용
       + GlobalExceptionHandler 적용하여 오류 대응, Jenkins와 Docker를 활용한 CI/CD 강화
-    + [2023.04.10-2023.05.26] **```코드스피드```**: IT 취업준비 종합 플랫폼 애플리케이션 [SSAFY 8기 2학기 자율PJT (Android)]
+    + [2023.04.10-2023.05.26] **```코드스피드```**: IT 취업준비 종합 플랫폼 애플리케이션 `[SSAFY 8기 2학기 자율PJT (Android)]`
       + Spring Boot 3.0.5, Java 17, Spring Security, JWT, JPA, AWS EC2, Docker, Jenkins, JIRA, MairaDB 등 활용
       + Android, Kotlin, OAuth, Google/Kakao 소셜로그인
       + 멀티모듈 및 MVVM 클린 아키텍처 적용, ELK 스택 적용
