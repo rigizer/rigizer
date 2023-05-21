@@ -78,7 +78,7 @@
       + Spring Boot 3.0.2, Java 17, Spring Security, JWT, JPA, AWS EC2, Docker, Jenkins, JIRA, MariaDB 등 활용
       + React,js, Node.js, Three.js 등 활용
       + GlobalExceptionHandler 적용하여 오류 대응, Jenkins와 Docker를 활용한 CI/CD 강화
-    + [2023.04.10-2023.05.26] **```코드스피드```**: IT 취업준비 종합 플랫폼 애플리케이션 `[SSAFY 8기 2학기 자율PJT (Android), 구미캠퍼스 2반 X등]`
+    + [2023.04.10-2023.05.26] **```코드스피드```**: IT 취업준비 종합 플랫폼 `[SSAFY 8기 2학기 자율PJT (Android), 구미캠퍼스 2반 X등]`
       + Spring Boot 3.0.5, Java 17, Spring Security, JWT, JPA, AWS EC2, Docker, Jenkins, JIRA, MairaDB 등 활용
       + Android, Kotlin, OAuth, Google/Kakao 소셜로그인
       + 멀티모듈 및 MVVM 클린 아키텍처 적용, ELK 스택 적용
