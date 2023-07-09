@@ -83,7 +83,9 @@
       + Android, Kotlin, OAuth, Google/Kakao 소셜로그인
       + 멀티모듈 및 MVVM 클린 아키텍처 적용, ELK 스택 적용
     + SSAFY 8기 서울, 구미, 광주, 부울경캠퍼스 오늘의점심 서비스 개발
-+ 🧊 [2022.06-2022.12] 제2회 웅진씽크빅 게임 개발 챌린지
++ 🧊 [2023.06-2023.11] 삼성 청년 소프트웨어 아카데미 (SSAFY) ![samsung](https://img.shields.io/badge/Samsung-SSAFY-1D49C0?style=flat-square&logo=samsung&logoColor=white)
+  + 9기 광주캠퍼스 프로젝트 실습코치
++ 🍇 [2022.06-2022.12] 제2회 웅진씽크빅 게임 개발 챌린지
   + [[팀: 내일부터 하자] 매쓰원정대](https://github.com/CompetitionGame)
   + 서버, 데이터베이스 관련 Back-end 담당 (C#, Java, SQL, AWS)
   + [2022.08.05] 예선통과, 본선진출
