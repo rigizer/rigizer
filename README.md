@@ -40,7 +40,7 @@
 - 개발 관련 문서를 꾸준히 작성하여, 한 번 이상 경험한 오류에 대해 능숙하게 대처합니다.
 - 주기적인 알고리즘 및 CS 스터디를 진행하여 반복 학습을 진행 중입니다.
 ```
-+ 🎂 [1996.06.05] Seoul, Republic of Korea.
++ 🎂 [1996.06.05] Suwon, Republic of Korea.
   + <p>
       <a href="https://www.youtube.com/channel/UC7K8QkA2Y1IBEJGHm-3fNXw/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
       <a href="https://www.instagram.com/jy_han65" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
