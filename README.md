@@ -23,14 +23,14 @@
 [DevOps]
 - 서비스를 Dockerize하거나, docker-compose.yml을 이용하여 다중 서비스를 배포할 수 있게 스크립트를 작성합니다.
 - Docker 내부 네트워크를 활용하고, Nginx Proxy Manager를 이용해 SSL과 도메인을 관리합니다.
-- 직접 운영하고 있는 RaspberryPi와 Oracle Cloud 기반의 사나래(sanarae.dev) 서버에 서비스를 배포합니다.
+- 직접 운영하고 있는 RaspberryPi와 Oracle Cloud 기반의 리눅스 서버에 서비스를 배포합니다.
 - Github Actions, Gitlab CI/CD, Jenkins를 이용해서 자동 배포를 구현합니다.
 - 필요한 경우, Nginx의 리버스 프록시를 이용해서 블루/그린 기반의 무중단 서비스를 구현할 수 있습니다.
 - 리눅스(Debian, RedHat) 기반의 명령어를 숙지하고 있으며, 노트북에 리눅스를 설치하여 일상적으로 명령어를 활용하고 있습니다.
 - AWS의 EC2와 Lightsail을 이용해 IaaS 기반 배포가 가능하며, 필요에 따라 AWS Lambda와 같은 서버리스 배포도 가능합니다.
 
 [AI]
-- 직접 구축한 사나래(sanarae.dev) 서버에 로컬 LLM(gemma3:1b)를 구성하여 개인 AI 비서를 활용합니다.
+- 직접 구축한 리눅스 서버에 로컬 LLM(gemma3:1b)를 구성하여 개인 AI 비서를 활용합니다.
 - AI Hub에서 필요한 데이터를 다운로드 받아, PyTorch/Tensorflow를 이용하여 데이터를 학습하거나, 결과를 예측할 수 있습니다.
 - n8n을 활용하여 AI Workflow를 구성합니다.
 
