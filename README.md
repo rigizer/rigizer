@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Jaeyong Han (한재용)
-**Backend Developer**
+**Backend/AI Developer**
 
 *첫 번째 사랑은 Java, 두 번째 사랑은 Spring, 마지막 사랑은 Docker* <br>
 *SW개발과 Linux라면 사족을 못 쓰는 Back-end/AI 엔지니어입니다.*
