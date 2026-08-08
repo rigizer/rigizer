@@ -4,7 +4,7 @@
 **Backend/AI Developer**
 
 *첫 번째 사랑은 Java, 두 번째 사랑은 Spring, 마지막 사랑은 Docker* <br>
-*SW개발과 Linux라면 사족을 못 쓰는 Back-end/AI 엔지니어입니다.*
+*SW개발과 Linux라면 사족을 못 쓰는 Backend/AI 엔지니어입니다.*
 
 [![Email](https://img.shields.io/badge/Email-rigizer@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rigizer@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rigizer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://kr.linkedin.com/in/rigizer)
