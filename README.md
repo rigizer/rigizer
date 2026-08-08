@@ -4,7 +4,7 @@
 **Backend Developer**
 
 *첫 번째 사랑은 Java, 두 번째 사랑은 Spring, 마지막 사랑은 Docker* <br>
-*SW개발과 Linux라면 사족을 못 쓰는 백엔드 엔지니어입니다.*
+*SW개발과 Linux라면 사족을 못 쓰는 Back-end/AI 엔지니어입니다.*
 
 [![Email](https://img.shields.io/badge/Email-rigizer@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rigizer@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rigizer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://kr.linkedin.com/in/rigizer)
@@ -18,6 +18,7 @@
 ## 💡 About Me
 - 모르는 것을 모른다고 솔직하게 말하고, **문제를 해결하는 것**에 집중합니다.
 - 한 번 경험한 Issue는 두 번 다시 겪지 않도록 **문서로 기록 후 복기**합니다.
+  - `LLM-Wiki`를 활용하여 문제의 원인을 분석하고, 해결 방법 및 과정을 기록하고 있습니다.
 - 기존 시스템 구성에 **의문을 제기하고 개선 방향을 꾸준히 고민**합니다.
 - 재활용성이 높은 코드 작성을 추구하며 객체지향 개념을 도입하여 프로그래밍합니다.
 
@@ -63,8 +64,19 @@
 
 <br>
 
+## 📖 Study
+
+- **SKT FLY AI Challenger** | 8기 교육생 (2025.12 - 2026.02)
+- **삼성청년SW아카데미** | 8기 교육생, 모바일 트랙 (2022.08 - 2023.06)
+- **구디아카데미** | GDJ29기, 금융 오픈플랫폼(자바)기반 핀테크 개발자 양성과정 (2020.08 - 2021.02)
+
+<br>
+
 ## 🏢 Work Experience
 
+- **SK텔레콤** | AI Agent 엔지니어(계약직) (2026.08 - 2026.12)
+- **팀스파르타** | 생성형 AI 교육 기술튜터(보조강사) (2026.07 - 2026.08)
+- **멀티캠퍼스** | AI Agent 실습코치(보조강사) (2026.05 - 2026.08)
 - **글라우드** | AI/Data 엔지니어 (2025.07 - 2025.09)
 - **페르세우스그룹** | Backend Developer (2025.02 - 2025.03)
 - **삼성청년SW아카데미** | 9-10기 프로젝트 실습코치 (2023.06 - 2024.05)
